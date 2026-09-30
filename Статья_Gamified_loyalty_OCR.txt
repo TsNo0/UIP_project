@@ -1,0 +1,2100 @@
+OCR-расшифровка PDF статьи
+Gamified loyalty programs in online grocery retail: A mixed-methods investigation of consumer engagement and behaviour
+Journal of Retailing and Consumer Services 92 (2026) 104834, DOI 10.1016/j.jretconser.2026.104834
+
+Источник: 13 скриншотов из PDF-просмотрщика. Страница 2 статьи в исходнике отсутствует.
+Текст получен через tesseract OCR, возможны ошибки распознавания, особенно в таблицах, формулах и числах.
+
+
+======================================================================
+СТРАНИЦА СТАТЬИ 1 из 13
+======================================================================
+
+eling | Lopes Se 21 |i
+
+“S2AUI SPOuJaW-paxiw yy {preje4 Asa20u6 auyuo ui swesboid AyeAo; paymweo
+
+Wat Se Contents sts available ar Seneeh : mas
+Dyin FETS (Often ee
+Pair de —3t “ees
+ase) est ;
+ae)" Journal of Retailing and Consumer Services
+alte
+PL SEVIE] pournal homepage www .olsey ef.corr) ocatey;retoorm: aN ab
+®)
+Gamified loyalty programs in online grocery retail: A mixed-methods om
+investigation of consumer engagement and behaviour
+Lingli Qing ', Guili Deng", Zengiu Zhang ', Shunhao Mai
+* Schaet of Acceurmg, Guongstew Cellege af Corcrerta Geangtves 511061, Chine
+* Scho of Accel Guemelew Colle af Tatradegy and Gestew, Fishae 522795, Cilw =a
+~
+ARTICLE INFO AHSTRACT Mw
+Keywortti: Online goocery retail law become a maiusirerm shoppurg cuinnel, yet sustaining consumer engagement ami
+Caarsitied leynity pan paves loyalty in a digit environment remains challenging This aedy Uwestigates whether linegrating game-thy
+Oviline grectey seca) mechanics inte lovely progres cat deepen eagugeinend and stimulate purthednig among online grocery cus I
+
+4G OMe grep imen)
+Purchase b etovicen
+Cami theari on
+Mined sctheods
+
+tomen. Date were collected entindy onine thevugh on etablehed UK-based consumer pare! adminestered via
+the retailer's dighal platfone A misedanethots design cauhiees survey aod behavioral asalytics Gam SO)
+perticipei= randorly mxigned to either « pamified or a stemclard loyalty comelition, Quantitatioe menmres
+include engagement scores, gamificetion mage, end purchases frequency, while qualitative interviews explore
+perticipant perceptions of fin, atteatirny, and Caines, Deveript tee slatictics sidicate that participants eagages!
+more often with gamified tasks and reported stranger emotions! bonds with Ube retailer. Regresnon motels show
+a posilive amoctition between gamilication usage and eygagement and a moderne indirect effect on purchase
+frequency, tnderviews reveal that meaungf challenges, pooxress tredbach, and social recognition are central w
+Sietaleing interes!, while concerts about privacy syd over-oompet (ion at a polenta! bertions Findings sugges!
+that gemified loyalty poograms are most effective when they priocitve personaliaed peogren tracking ower
+universal con petition, am! are Cabloned to you ager (18-34 years) and femmle consumer Segeeerte fie thet onlin E]
+grecery contest. The study contributes to retail research by providing empirical evidence from a large, nationally
+
+distributed sempic and offering actionable mai ght: for online grocery retailers sericing leverage gamification
+
+fespanainy. CO
+
++ %l6
+
+1. introduction
+
+The rapid growth of onlase grocery retail over the pest decade bes
+tmestonmed the way consumers plan, purchase, and eeceive essential
+goods. Digital plat hic 4 ilew shopper to becwse aeyirinents, compare
+prices, umd acrange delivery without leaving home, yet the convenience
+af electronic ordering abo introdeces new challenges for wtailecs. Un
+like piysion! atores, digital channec’ lack ambient semmary cura and
+ervndipitows Srawdag, which com evabe it harder to foster emotional
+connections and repeat purchases. As competition intensifies and ¢us-
+tomers face on abundance af choice, maintaining engagement becomes
+just as important as acquinng mew users. Loyalty programs have his
+teeteally served asa primary tool for encouraging repeated patmnage
+Traditional schemes offer poines a Gecouns in exchange for appending
+and offen rély on predictable earmeerd-burn mechemics. In a denamic
+online marketplace, however, these mechanisns am increasingly
+
+* Comepeading author
+E-mal aidreure reptrag: Mt prvabe yer rfl. Qing)
+
+diewed as transactions] and undifferentiated Comumers are habituated
+O tecriving paints from qumerous programs, which diminishes the
+perceived valueof any individual scheme (i Matuel, 214. Asa
+esuk, beands are exploring janowative ways to reine igorace Ibyalty by
+incorporating elements of gami@ication, Gamifcation refers to the
+application of gume design feotures, such as points, Ievels, progress
+tnicking, and challenges, in non-game contexts When thoughtfully
+implemented, these elements can enhance teteiasic mecivarion by
+appesting co tures Gesires for aehievement, competition, and receg-
+ailion. The present rewarch situates gamification within the context of
+online grocery retail a sector characterised by frequent (\' ioc
+
+wad 4 ’ |, utilitarian purchases that oometheless require trust and
+ha hit formation. Grocery products are low-invelvement medivicisally heat
+Neh-iovolvemesr collectively because hooseholds depend on them for
+daily life. Retailers thus face a delicate balance: they must make shop
+ping efficient ond frictionless while also enmoountging customers to
+
+(G Deng) nen 2. Phang), 0 nlerery (Ss. Mm)
+
+Received 28 November 2025 Received i revised foom 14 Macch 2x26; Acecpeed 6 April aan
+
+Avallable online LD Apel 22
+
+(MSGR AS DOA6 Elaewier Lick All rights ae reserved, including Chee for text ancl date mining, Al raining, etd similar wehnolgics
+
+F
+
+iD
+a)
+©
+.
+x
+®
+is
+m
+c
+
+qimHedxoy F
+
+qielensioey &)
+
+ly Anmury aius0du>
+
+======================================================================
+СТРАНИЦА СТАТЬИ 3 из 13
+======================================================================
+
+i. Oegea
+
+fiends leading to engagement! boosts of up to ane huimdoed aod filly
+percent. Bastsesses implementing such programs alse report sult antial
+increas in sales conversion rates and custames retention. Thes: out
+comes demonstrate that game mechanics can turn routine transactions
+Into Soteractive experiences that leikd long-berm relationships, Despite
+these successes, gamification mist be carefully tailored to context
+Trixliional loyalty prog rims foros an disciunts aod points, bot younger
+consumes increasingly seck wusteractive experiemees (1) uel Au
+soomubke, 2025) Integrating gamificanan into loyalty ecosystems ab
+lows retallers to introdeor non-eodemic offers, task-lased rewards, and
+advertiser-finded incentives, Uiereby generating incremental revenue
+without sscrificing margins However, the effectiveness of gamified
+initiatives depends on product citegury norms and copsumer expecta
+Tides, In privacy-sensittre domains, sach as financial serves or health
+cam, anthropomorphic or game-like cies may trigger discomfort, This
+undenoores the importadce of understanding boundary conditions and
+iligning mectenies with the valees af Lancet customers
+
+23. Tieoreteal perspecteors on gonified oyelrr progrwry
+
+Seresal theoretical frameworks Ulaminate why gamification can in
+Quemer: consaner engagement and loyalty, Self- Determination Theory
+posits that the need for aumeomy, competence, and relatedness derives
+human motivation. Gamified programs sitefy these oeeds by allowing
+particopants to choose tasks, providing feedback on progress and
+enabling social comparison. When tnctviduals feel thar they coarral
+thelr auctions aad perceive improvement, intrinsic motivution increases
+leading to higher engagerwnt. Flow Theory sugeests that peenle expe-
+descr optim! epoyment when challenges align with their skill bevels
+Camification can faciitte flow by offering incremental goa’ and
+adaptive dificulty levels, ensuring that tasks are neither too easy nor too
+hard, Achieving flow states im everyday shopping may transioem
+mundane transactions inte immersive experiences Social Exchange
+Theory ofers another lens, proposing that loyalty arises when customers
+perceive a fair balance af benefits and costs. Gamified elements asch as
+rewards, badges, and exclusive content bance perceived benefits,
+while case of participation reduces perceteed casts (lam et 23)
+Consumers engage more Geeply when they believe that the effort
+invested in aloyally program yieles commensurate value, Equity Theory
+senilady argues that individuals compare their cubcames with those af
+others; bewierboards and sora recogniten can beighten mattvatian by
+mking (UIT paraiwe: outcomes visible, However, thes mercharisens
+must avoid creating excessive competition or unfaimess, which coukl
+deter participation. Cogeliive Eraluation Theory wares thal extrinsic
+reward’ can crowd out intrinsic motivation if chey arm perceived as
+controling. Conseyeently, geemifieation should prioritise experiential
+eewards and progeess feedback rather than solely tangible incentives.
+The primecighe of habic fonnation bb also relevani to grocery shopping.
+According to babit theory, repented action: im stable contests become
+automatic over time. By embedding game mechanics into routine gro
+cery purchases, retailers can accelerate haldt furmation through bmome-
+dime feedback ami reinforement For example, awarding
+micro rewunts for each shoppiem trip cin strengthen the association
+between completing purchases and receiving positive outcomes. Over
+time, this can make shopping om a porticalar platform moee automatic
+Nevertheless excessive gam ification risks fatigue or trivialisatkim, and
+may reduce the perceived seriousness of grocery purchases. Under-
+standing the inserplay between gamnification, motivation, and halit &
+therefore essential for designing effective programs
+
+24. Synttwsls and research gop
+
+Toe foregoing review revenls a body of literature that & rich in
+theeretical perspectives and industry evidence but aotably thin an
+nigerous emptrical @westigation af gamification in the antine grocery
+consext He 1] swmenarises the key findings fom the reviewed studies
+
+Table I
+
+Journal af Rerei bag ced Came yee Serre of 02 (AOA) HOARD 4
+
+Syntheds of ceviewe! suadies oo gemificatonand loyalty in revel avttings Bue
+
+tow inchovies the coctn bution of the current eturly
+
+Study Pores
+
+Lopally jeceram
+peroomw tration (
+te
+Lo)
+Gam Noel be metres
+(ened owtry reg errte)
+
+Self-Deturatiewtics
+Theary «© @igital
+were roel
+
+in)
+
+Onwnicheeee rerenrion
+
+evosgies { i
+
+Soe lal qaveliie stion
+featarest
+us t Coit)
+
+Hebi Sormation aid
+repetitive peorkeer |
+vet bir
+ee |
+Gurett etuty
+
+Ker linetne
+
+Perum ined corners
+significantly tne renee
+repeat pert luce intend ere!
+enotent’ boonrrticn
+Carl cateen initiatives
+show ubtet 4% bicreane
+Im engageweers wart 27%
+Improvement in loyalty
+Setbdection of autonomy
+ated crenpetence ares
+coher we bettie:
+
+orga prem
+Prcerent Lory price
+iacegrvtae mainly
+
+er arers compiitive
+eapeilenee, uh
+wert servis
+Teregretios prvarily
+bees alecive
+eopesicnee,
+
+Sewial (oeereet een beatures
+eon increase eer
+
+erga gaeail
+
+Rete ierurenest of cece bee
+behavirerers acoelerwies
+nalit forntim Is
+
+perc basiag pa tem
+Poevties « comtretier
+
+wel eed mettle eel uation
+el yantifion wn efieets in
+oaline grocrsy rein! eeing
+
+Comes /Limtanon
+
+Coneval eusll crest
+thet ou soniine
+
+pemifiortain ireechi ence
+
+theed on agesegaiel
+irebentry cate Leche
+poartre [ee experimental
+varetetion
+
+Drleweily coment ual,
+tery ited appir tian to
+jury evtall
+envinoesnenite
+
+Chi chaneel perl! in
+Gina Single comuy
+wari pe evel crimeeers thee!
+iu
+
+Oeline trend
+forerentitiee willanan
+waliery wiliegs tetta
+us theres pkiret
+
+(Ceeew eee beodane
+gpemnificoetains ox the
+Primary mintoecing
+todas ee,
+
+Drsignedt tu adeieres price
+gaye DH ag
+raperrumesialdeagn ar!
+cpealitat wee rreengu lerteen
+
+a 340 parccipass samik
+with dereteprapite
+
+mer ahr
+
+dod highlights the dimensions slong whirh Chis paper extends existing
+hnowledge.
+
+Sever! important observations emerge from ths synthesis. Pirst,
+although pamification fas been assaclaied with sulstaniial improve
+mens in engagement and bend lovaley in boapitality, aliriioe, and
+fener! ecommerce contests, oo controlled experimental study has
+specifically examined its effects in ooline grocery retail..a domain
+defined by high purchase frequency. low involvement per transaction,
+and atrore consumer sensitivity to price and convenience. Second, while
+thecrelical frameworks euch a Self- Determination Theory and Flow
+Theory provide compelling mechanistic explanations, empirics! evi
+dence testing these mechinisms within grocery contexts mains abeent
+Thiet, demogmpbie maderstas—parnkulurly age and gendor—hovwwe
+bem lacgely ignored tn peice gamification cesearch, despite well-
+documented differences in digital engngemern across these gremips
+Fourth, the studies rewewed are predominantly quintitative, leaving the
+experiential and psychological dimensions of gamified grocery loyalty
+poorly usherstood, The present stedy directly adtresses these Lacuna
+by deploying a pee-repissered mixed-methods design, 4 nationally
+distriboted UK sunete, and a pwo-month behavioural tracking oretace,
+thereby providing the first systematic and enpirically razarous account
+of gamified loyalty prognims in online grocery retell. By doing sa, it
+conteliuies not only to applied retall management bat ala to broader
+theories of gamification, consumer engagement, and digital hater
+formatin
+
+3. Methodology
+
+This section describes the research design and all poucedural steps
+umiertaken to generate and analyse the data. tt is structured to enable
+
+full reglication of the study. Tie ) peesenss a schemaric (iwehart of the
+
+“S2AUI SPOuJaW-paxiw yy {preje4 Asa20u6 auyuo ui swesboid AyeAo; paymweo
+
+a
+
++ %l6
+
+F
+
+LUO3'S38SSP1338//PsoUBINS jpd
+
+“UNUO Ut SuueIBoud AyeAo| Dales
+
+% L6 CS
+
+iD
+ov
+©
+.
+ras
+wo
+is
+*
+c
+
+qimHedxoy F
+
+_
+
+qLeLeheLned
+
+ly Anmury aius0du>
+
+======================================================================
+СТРАНИЦА СТАТЬИ 4 из 13
+======================================================================
+
+. G@pad
+
+" Step 1: Research Design - Mixed-methods quasi-experimental
+\ framework; Gamified vs, standard loyalty program conditions
+(" Step 2: Participant Recruitment - 300 participants trom
+
+online grocery platform database: Stratified random
+sampling; UK-based national panel
+
+% as
+
+Step 3: Data Collection « Two-«manth monitoring;
+Behavioural analytics + weekly engagement surveys;
+Semi-structured interviews {n = 6D)
+
+(Step 4: Quantitative Analysis - Descriptive statistics; I-
+Picco decntn monty drsoasts, yates treme iiessiranen itcn
+
+Step 5: Qualitative Analysis - Thematic analysis; Coding
+and theme development
+
+Sf
+
+XK
+
+( Step 6: Synthesis and Reporting - Integration of '
+quantitative and qualitative findings; Developrnent at
+
+\ research conclusions and implications
+
+Pig, 1. Methedolegicnl flowchart illttrating the steer research proces
+from study design through Ine gration am! ceporing. The flowchart ls eciginal
+tn this study,
+
+analytical pexcedure. Subsequent subsections detail the sampling
+stetegy and data onllection peatoral, the measrement inetroments and
+mationale for variable selection, and the analytical echnkjwes applied tu
+both quantitative and mpealitative data. The study moewed ethical
+approval from the authors’ institutional reriew board, and all partict-
+cans orivided informed consent orier te participation, Ne data were
+collected from minors.
+
+31 Research design and dam coffectian
+
+Toesplore the effec of gamified loyalty progres un online grocery
+shoppers, a mixed-ncthods research design wos mnplemented, The
+quantitative compocent comsisted of 2 quasi-<xperimectal study in
+which participants were randomly assigned te either a gamified loyalty
+program or a traditional points.based program. A total of SOO partici
+fames were receaited through an online grocery platforms cusomer
+Gutaboe, All data were collected online, through the retailer's dedicated
+mobile application and web portal, over a two month study period, The
+simopit was drawn from a matonally distributed UK consumer panel
+maintained by the placioem provider, encompassing shoppers from
+diverse regions including England, Seotland, Wales, and Northern
+teland, This national sampling frame ensured that findings are oot
+
+confined to a single metropolitan area and are broadly representative of
+
+the UK adult online grocery shopper population, ERgibility nquired that
+participants he at wast eighteen years old, wee completed at least one
+online grocery purchase in the previous six months, and consent so data
+collection. Stratified madam sampling ensured balanced representation
+of gender and age groups. Among the participants 271 identified as
+male and 229 as female, and ages minged from 18 ip 64 years, with a
+mean of approxtmately 41 years, Of the 612 individuals Inirially invited
+(0 participate, 500 compleced enrolment, yielding 4 participa tion care of
+
+Areal of Pircaiding and Coruurer Serace: 02 (atta) 14a
+
+B1.7%. A Further 29 participants were watcequently excluded due to
+complete engagement aervey respanses (fewer than 50% of weekly
+surveys completed), resuking in a final analytic sample of 477 patkt
+peots. Sensitivity analyses condected on both the fall enrolled sample (nm
+~ 5800) and the analytic sample (n — 477) produced subsaretvety
+identical resuks, supporting the robustness of the reported findings.
+Missing individual survey Bems were bended through multiple impa
+tation using five imputed datasets, following best-practice recommen
+@atioms: for panel studies. Participants were unaware of the study's
+hypotheses aad were informed that their usage pattern: would be
+monitored over two coooths, The gamified progeam integrated game
+dements such as dally challemes, progress lars, and badges into the
+retailer's exiting loyalty system. Participants eamed points for
+completing tasks such as exploring new product categories, posting re-
+views, Of aking purchases abwer « cermin threshold, Completing arts
+of tasks unlocked virtual badges and placed wers on leaderboards
+vidible to their fends The eontrol program offered a traditiimal points
+gysem with equivalest monetary value but without interactive de
+ments Both groups eecrived communications themigh the metaBer's
+mobile app and ema’ to ensure consittent exposure to progr details,
+Dats collection captured demographic varlalies (ager, gender), usage
+metrics (time spert on the app, gumber of tasks compicted, Indges
+eamed) behaviowal outcomes (perchase freqvency and basket sizer),
+acd subjective engagement scores obtained theaugh weekly surveys,
+Engagement was meatioed essing 4 com posile index assessing emotional
+conpection, trust, satisfaction, and enthusiasm joward the retailer, cated
+on a seven-poln scrle. in addition to quantitative moniboring, qualita
+tive data were gathered through semi-stmctard mterviews with a
+aabset of sixty participants selected to represent diverse demogmphix
+fedfiles and program experiences. Interviews explored perceptices of
+fin, fairness, motivation, and privacy, as well 43 aigpetions for
+mproverent This combination of quantitative and qualitative ap
+penaches enabled triangulation and deeper insights into the mechanisms
+anderlying the obeyed behaviours,
+
+ie J sammarives Ue demographic cam position of te full enrebled
+ample, replacing sequrate distribational charts with a aorise descrip.
+tive overview. All figures presented below are ariguaal to the current
+sucy and wee generated froen the plarform's administrative records
+and enrolment surwey data,
+
+32 Meaurenen tisrnmens ead yanables
+
+The study eeaphoyed «9 combination of behaviour metrics and pry-
+chometric instranentsto quantify engagement, pamification usage, acd
+purchasing behaviour. The retailer's analytics system automatically
+mcorded behavioural date. Key vaclables inckeded the namber of
+
+Table 2
+
+Demegmphic profile of the study sampk (N ~ SOO) Gender and pmgram
+eeigumem were balknced through ratified madam sampling Figures are
+origina! to thie study
+
+Clwerneter totic Cawgrry n %
+Gender Male 2. 42
+Franke z4 43°
+Age grap {8.24 62 Pe |
+ns 8 zis
+wa mI MAF
+15 54 ite ze
+Me te ut ta?
+Progreet) ade rem Sharnlleet m1 2
+Coot (stendved) M4 49.8
+Phoapen bes ct olew b-2 pereane 178 35.6
+4 persorte mo 424
+Ss pooom 109 214
+Pree leenky progreen L-2 programas 145 7a
+34 pecgrams a4 ms
+S) peegrecme 18 274
+
+“S2AUI SPOuJaW-paxiw yy {preje4 Asa20u6 auyuo ui swesboid AyeAo; paymweo
+
+EL/ &
+
++ %l6
+
+'s;
+
+F
+
+WOS'SJeSSE]50/|Pa5 usins pd
+
+“uIUO Ut SuueIBoud AyeAo| Dales
+
+% L6 CS
+
+iD
+ov
+©
+.
+ras
+wo
+is
+*
+c
+
+qimHedxoy F
+
+qielensioey &)
+
+ly Anmury aius0du>
+
+O
+
+======================================================================
+СТРАНИЦА СТАТЬИ 5 из 13
+======================================================================
+
+. (ewe we al
+
+purchases made over the two mete the avenge purchase dze
+(meatured in monetary units), the qumber of devs participants logged
+into the agp, the total tine spent on the app, and the number of gamiied
+tasks completed, These variables were selected because they collectively
+operathinalise the three cone canstrocts of interest—glatformm engage
+ment, ganve mecharics adoption, and purchase behaviour—and because
+all are routinely captured by the retailer's aniytics infrasrectare
+ensuring objective measurement free from retrospective recall bias,
+Purchase frequency was chesen as the primary behavioural cutcome
+borne It b&b directly actlonable for retall managers and because |
+captures habitual return rather than single-oocesion spending. Basket
+ze was inchided 8 a Secondary outcome to distinguish intensive fram
+extensive purchasing responses to gamification, Time spent on the app
+wie retained asa contrel variabie eather than an outcome variahiec, ap
+the grouosts that dwel time can reflect both penductive eagapemens and
+aimless leowsing, its relationship to purchasing behaviour & Unerelore
+examined descriplively rather than cassily. Purchise frequency was
+treated as a count variaite, while taneon app and task completion were
+contineuws menaures. Subjective engagement was muesed using a
+weekly survey administered through the retaiers app. The survey
+consisted of fifteen Heme measuring eonotional attachment, ust, satis-
+faction, enjoyment, and. willingness to recommend the retailer. Re
+sponses were collected on a seven-polre Likert scale anchored fram
+strongly dikagowe’ to ‘aroagl) agree.’ The engagement index was
+computed as the average of all items, yielding « counting score
+ranging from 1 co 7, Relisbility aeslyds demonarated high internal
+consistency acrows both program groups {Cronbach's a — 0.95 in the
+pamified growp and 0.99 In the control group), confirming that the
+fWteen-fem scale provides a stable and internally coherent measure of
+consumer engagement. Cocfiematory factor analysis (CPA) comlucted
+on a random 50% split-healf of the sample indicated acceptatle model fil
+(CA = 0.97, RMSEA « 0.066), further supporting the constract validity
+of the composite index, Gamification usage was measured by summing
+the points eamed from completing tasks and pomnalising the total co a
+sale from sero to one fmandred for ease of interpretation. This score
+reflected the degree to which participanis engaged with game me
+chanics refitive to available opportunities. Demographi variables
+inchaded age, gender, bouschold size, and prior experience with loyalty
+programs, These covarieees weer tecioded to compen! for potential con
+founding Gctors and to test demegrmphic moderation hypotheses. Age
+wie recorded a8 4 cootinixes variable and sufsequently grouped into
+categuries for descripetwe analysis. Gender was sclf-identilled as male oF
+femal. Household stee ciptured the number af people for whom the
+penicipant eegularly shopped, Prior loyalty experience was measured by
+raking perticipact bow many loyalty progeams they belonged to and
+how freqeently they used them (leper Wa i !
+
+32 Anolptiel proedwes
+
+Detn analysis proceeded in three stages, First, descriptive statiaics
+were com puced to eaplose the diseiburion of demograpiic variables and
+her metrics. Means and standard deviations for continoous varmbles and
+frequencies for categorical variables allowed for initial comparisons
+between orognunm greupe. independent samples t-tests and chi-cjeare
+tests assessed haseline equivalemee across conditions, Comelations
+AMONE emzagement, camification usage, purchase frayuency, and time
+on app were calculaied to examine peeliminary asocations. Second,
+inferential analyses tested the Empact of gamiification on engagement
+and purchasing ( ital. 20229). Multiple regression madels predicted
+engagement scores fram gam ification usage, contro Bing for age, gender
+hosehotd dae, and peior loyalty experience. Poisson regression models
+examined purchase frequency as a function of gamification usage and
+engagement. Interaction terms tested whether the relationship between
+pamification and engagement varied by desnographic factors. Te adcdkess
+potential self-sclectian, an instrumental variable appmach was used
+asgeming perticipantss «0 ihe gamed program as an instrament for
+
+eureei af Bernie aad Came Aerecrs 02 (20D) HOA
+
+gamification usage, Moulel diagnostics confirmed assumptions of ho
+mincmbisticity and abeence of mulkicollinearity (all VIF values below
+2.5). Common method bias was awessed using Harman's single-factor
+test; the largest single factor accounted for only 27.2% of total vari
+ance, Indicating that common method variance bs wadllely to disrort the
+findings. Third, qualitative imerview data were analysed through the-
+matic aonlysis. Transcripts were coded inductively to identify recarring
+themes related to mxcivation, enjoyment, Girmes, privacy concems,
+and perceived value. Two independert researchers condarted coding
+and discrepancies were resolved through discussion, Themes were then
+compared across participants in the gamified and control conditions and
+across demogni phic groups to enrich the interpreta tion of quantitative
+findings.
+
++ summarise bey variable patterns across the sample, F)
+depicts the average eapagement sco by ape group, lihetrating how
+enetiqnal attachment varied across life stages. fig. S doows the average
+Purriese frequency in each program groun, highlighting differences
+between gaumified and traditional schemes, Py. 4 presents the average
+gamifkation usage score by age group, demonstratiog the extent to
+whieh different age sqenents adapted game mechanics
+
+hee Divstrute key analytical cuipucs. | 5 provides tee cur-
+eclation matex af the main variables, highlighting postive associations
+betreen gamification usage and engagement and a weaker association
+erwin engagement and paumhase frequency. ) pote avernpe
+eogagement seores across deciles of pen fication usage, revealing «
+monotonic increase that plateaus ot high lewels of usage. ©) shows
+average Qurchase frequency across deciies of engagement scores, indi
+cating that higher engagement correspemads to more ferquent parehases
+but with ciminbhing marginal eens,
+
+4. Results
+4.1. Demegraphic profiles and descripttve seattstics
+
+The denogrmphic compisition af the study sample reflected « broad
+cries section of online grocery shoppers. Participants ages ranged from
+LB bo 04 years, with a mean of approximately 41 and a standerd devs
+ation of 13. Gender distribution was nearly balanced, with 271 males
+(54.2 perovnt) amd 229 females (45.5 percent) Houwebokd sizes enget
+from | to 7 pessons, with a median of 4, Approximately two-thirds of
+Participants report! belonging bo at kus! 3 other loyalty programs,
+indicating familiarity with reward schemes. Baseline comparisons be
+tween the gamified and control props showed no significant differences
+in age, peniier, of Household size, confining seccesstul minxdiomizarion
+Prior loyakty experience and frequency of yoocery purchases in the dix
+months pesosding the study wer abo comparnble acmins groupe
+
+6.10
+A
+aM oH
+
+Age Group
+
+-
+tn
+
+505
+
+‘m=
+4 St
+
+al
+o
+
+Mean Engagement Score |!-7 scale)
+
+o
+
+ea
+
+49-5 bs
+
+Fig. 2 Mean engapemest scores across age cacegories reveal that middle-aged
+pecticipaus estihis slightly higher emoilona connection Chan yoanger ur older
+sroups. Note: Agures persented here eve original to this study
+
+“S2AUI SPOuJaW-paxiw yy {preje4 Asa20u6 auyuo ui swesboid AyeAo; paymweo
+
+£L/ ¢
+
++ %l6
+
+'s;
+
+F
+
+LUO3'S38SSP1338//PsoUBINS jpd
+
+“uIUO Ut SuueIBoud AyeAo| Dales
+
+% L6 CS
+
+iD
+ov
+©
+.
+ras
+wo
+is
+*
+c
+
+qimHedxoy F
+
+_
+
+qLeLeheLned
+
+ly Anmury aius0du>
+
+O
+
+======================================================================
+СТРАНИЦА СТАТЬИ 6 из 13
+======================================================================
+
+“S2AUl SpOyyaW-paxiw yy ;pejes Asa2016 auyuo ui swesGoid AyeAo] paynweo
+
+. gaa Jovreel af Rereibag and Cama Saree oe 92 (MK) 14RD 4
+7 BA
+ae in hyerege Cogegemnent Score across Gamifeebon Usage Deciles
+= ao ~*
+a ‘ 7
+4 6 6.42 £ _ = a
+4.87 S 7 ait
+| 54 ples, “
+Es 1 = n ot a
+4 < al
+ee = Lio] -
+ond . s ~ >
+o> ~~ . ‘ .
+SS = > F b >"
+_ P mad A . —*
+=* ae
+s 7 all
+=)
+Camifieatios Lieage Derile
+0 oe
+Gamifed Program Contrat Program Fig. 6. Mean engagement scares across deeiles of gamPiocion usage. The plo
+chews & Char upward rem) Indicating the higher peeticipation in pune me
+Pig. 32. Comparbon of avenge monthly puriese Creyueacy between thee chatics is associated with stroeger emotional engagement. The placeaw in the
+gaeified and control grupe; the galled genup made momrginally more pur epperiest dashes suggests diminishing retunes at very high Usage ewelk n
+chee on wvernge
+a
+—
+~ Average Purchase Frequency across Engagement Score Docies Mw
+© = “7 R
+S g \
+= 70 cs £ > } \
+6 as § [| \ '
+° 7 576 = 25 j \
+3 ft. Re ~ / \
+Bon a4 5 S08 Fe ee } \
+> = aaé ; Bea o A. / + _* ww
+23 > And ‘\ / =
+= 40 = ~ J Ps
+3 & 450 “d
+y= ™ . >> = a *
+a — ev 5 « “ E eo << +
+& 20 4 e 1 is “
+3 na >" a wv oD
+- »* & ? wo 7 - \
+2 1 ‘ : te
+Engagement Score Deowe —
+: tB-2e 26-34 44 45-t4 Pare E] x
+Age G . _ Fig. 7. Average monthly purchase frxqeency across deciles of erigapement
+scoces. Highly engaged users shop more offen; boweves, the Locremental efiect
+Pig. 4. Average yanification usage scures accuse age categories, showing « eo purchasing diminishes a the highest engagement levels, implying an >
+tendency doe younger adults to engage move intendvely with gime mechanics epcimal eigagrment tinshelt beyond whick further gamifing iin inverment
+‘ ; : slelds oneler oto
+Age GamiicatonEngagene, Purchase Tine on Descriptive Matistics revealed that participants in the gamified group Ss
+Usage Score Frequency App spent dighthy more time on Che app and cam pleted more shopping trips
+
+during the study than those in the control group. The mean gamification
+-0.09 0.06 usage score in the geenified was around 51 on a ()-100 scale,
+ge s group
+cuggesting moderate engagement with the game mechanics, Engage 's;
+
+iD
+ov
+©
+.
+ras
+wo
+is
+m
+c
+
+— ment scores averaged 4 95 on the eeverypoint sole, indiceting generally
+0.39 positive ariudes towed the retailer
+- | Tlustrate key descriptive patterns | © displays the
+distribution of time spent on the app, showing that most participants
+0.28 spent bess than 5D min per week, while a small subset spent more than
+50 min per week, fie 9 compares purchase freguency across genders,
+rewaling minimal gender differences but dightly higher variability
+amnway fenule participants. bie 1 presents the overall distnbutwn of
+purchase frequency, indicating that the mes common number of pur-
+chases por month was five, with 4 long tall of heavy shoppers
+
+Pucrase) 9.09 0.18 0,31
+
+qimHedxoy F
+
+effect of gamification wsage on engagement (jt = 0.028, p < 0001),
+meaning thats tem-potat crease ih gam Fication wsage correspormted to
+
+Timeor’ 0.06 06.39 0.28
+App 0 . 4.2 Hypothes’s msting omd models
+
+Fig. 5 Heatmap of cocrehatons among age, gamifiation usage, engagement Regression analyses assessed the relationships among gamification ))
+
+finches frequency, and time ooent on the app, All comdetkee are statistically use, engagement, and purchase behaviour In the firse model, engage “W
+
+vigeificant at p < O08 tmless otherwise noted. Warner colours indicate ment score served as the dependent variable and gamification usage as 4
+
+nionnger postive amoctations. (Ror interpretation of the references to celour in the key independent variable, with contmls foe age, gender, howwhold |
+
+this figure legend, the eeader by referred tn tee Web version ef this article.) size, aod prior loyalty expenence, Results indicated a dgnificant positive ®
+Ve)
+-
+w
+|
+wv
+
+fy
+
+ly Anmury aius0du>
+
+F
+
+======================================================================
+СТРАНИЦА СТАТЬИ 7 из 13
+======================================================================
+
+L Gea
+
+Distnbution of Trne Spent on App (minutes!)
+
+25 1™ 173 200
+
+Pig, 8, Wistagramn shoving the cletriwten of total mbrretes spent cn the re
+tallers app per week. The disteiburion & right-chewed, with the mapehy of
+users epending fewer than 50 min per week aed « amall proportion of high
+engagement teem apending consklerahly more time on the piatfecm
+
+Purchase Frequency by Gender
+
+i2 .
+. 7
+pis .
+>
+Bs
+&
+ff
+4
+_ 6
+%
+.
+<
+= a
+3%,
+4
+2
+D .
+Male feonaler
+Gener
+
+Pig. 9. Hoxviots comparing monthly purchase frespoency across male and fe
+mae participant. Medkes vadues are dmiler acres getelers, leerever, the
+sligtly Laemer intereuertibe eager among female pee ticipants saggests gerater
+vaclabdity in purchase intensry.
+
+Distribution of Purchase Frequency
+
+10
+
+an
+
+ff
+» AT i
+
+Number of Purchases oer Month
+
+Big. 10. Histogram of the number of grecery porcheses per month Moet par
+ticipants compleed between thre and seven transactkes during the study
+peviod, with « rightckhewed disutbution reflecting a erealle group of very
+frequent shapers
+
+1028 point rise in engagement on the seven-polse scale. Age exhibited
+4 slight oegative association, suggesting that younger participants
+espomied more fworahly to game meckanits, Gender and howsehold
+size did wot show significant effects. In the second model, purchase
+frequency was regeeased on engagement and gamificntion asage using a
+Poisson regeession framework = {/ i 13).
+
+Areal of Pircaiding and Coruurer Serace: 02 (atta) 14a
+
+Ergagement emerged as a significant predictor () = 2042, p< O41),
+while gumifici tion sere bed a direct effect only when emeapement was
+eenitted fram the model, This finding tmplies that gamification io
+fluences purchase frequency peimarily thenugh tts impact an engage
+ment rather than directly Inceetivizing buying, letesaction tens
+between gamificstion usage and age weresignuificant, indicating that the
+positive effect of gimificatiin on exgagement was stronger for younger
+participants. No significant mteracthies with gender were found,
+iistrumencal variable analysts using assignment to the gamified pro-
+gram 2 an instrament for gamificution wage pratuced similar results,
+reinforcing causal inference. The first-siage regression confinned that
+assignment sirongly predicted gamifica tion usige (F = 45.6), are! the
+second sage showed asignificant fect on engagement. Together, these
+are lyses support the hypehesis that gamified loyalty programs inerease
+comumer engagement, which in tire drives mone frequen purchasing
+(hiveaiy and | IBD).
+
+ie |) Ulusteates the scatter eelationship between gamification
+wage amd engagement, with points coloured by program group. The
+positive slope and clustering of gam Wied participants a higher usage
+and engagement levels waderscore the qunntitative findings, |
+cuMmpare engagement soure disteibutioes within the control sent
+gamified groups, respectively, showing higher overall engagement io
+the gamified condition and gremer variability among control
+partied panes
+
+42 Befonourul pattem analpas
+
+Beyond aggregate effects detailed pattem analyse cevenled nuanced
+insights to how different user segments Miferacoed with the loynicy
+progmms. Scatter plow af age versus purchast frequency by program
+group showed thal younger participants made moce frequent purchases,
+perticularty in the pamified group. This sugpests that gumification res
+eites mare strongly with younger shoppers When examining age aed
+engagement score by gender, it became clear that female partici pas
+maintnied higher engagement across all age8 than male participants,
+aaggesting gendered differences in emotional responses tu game me
+chanics. Purther analysis considered time spent an the app relative to
+purchasing behaviour. A scatter plot showed a postive, bur modest,
+wlationship between app time and purchase frequency, with gamified
+ters clustering at higher wilues for both This pattem implies thar
+cimification emcaurages Users to spend more time browsing. which cin
+translate into more porchases. Another scatter plot comparing app time
+and gamification weqpe by gender revealed that females generally spent
+
+Garticanor Usage vs Erugpagerner rt 5core
+
+100
+
+PrograenGreup *. * oe
+Controt ™ ‘
+S Ss * : - “—P Se «yt *
+» . Lamifot © = oe ee ed _ .
+* . oy. °Me >. « +e
+Ns . <r’. tow? ~ 4 2° .
+a 80 - . ” ' > .
+pe . A. - f ESS. re) f “
+c "™* > /~ Ly P3u ~~ *
+_ w- Les = Ww See .
+c ee > + >} "ee.
+S *o* » "Far ey net ee ** «
+— ~) a” « ~ > t, "hes ~ oes
+am a 7 * .
+~ we = o“~ .
+co Ww > oe a.
+4 . *-* “  « ° *
+“4 . = t - . .
+—- ° . . °
++ .
+>
+,
+au
+a s+ a Bi w
+Gemification Usage Score
+
+Fig. 11, Scatter plet of gamification usege score against engagement score,
+whh colours Indicating asignmem to gamified (blus) of cortro] (orange!
+peogrars, The upreant treed confirm « positive retationedhip between ave of
+peme mechanics and emotional connection with the retatler: ganified paroct
+pants cluster toward the upper-right quactrant. (Porc loterpeetation ef the nf
+erent ca to colour in this Ggure lege, the recater is referred to the Web version
+af this article.)
+
+“S2AUI SPOuJaW-paxiw yy {preje4 Asa20u6 auyuo ui swesboid AyeAo; paymweo
+
+EL/ 2
+
++ %l6
+
+F
+
+“UNUO Ut SuueIBoud AyeAo| Dales
+
+% L6 CS
+
+iD
+ov
+©
+.
+ras
+wo
+is
+*
+c
+
+qimHedxoy F
+
+qielensioey &)
+
+ly Anmury aius0du>
+
+======================================================================
+СТРАНИЦА СТАТЬИ 8 из 13
+======================================================================
+
+i. Gap aa
+
+Engagement Score Distribution (Control Group!
+
+aH i 0 is nu
+
+Engagement Scorm
+
+Pig. 12. Histogram showing the diaribution uf eigagemment sores among
+pecticipents in the control progres, Scoces cluster around the mid-point of the
+walk (approsimeately 45-5.0), reflecting moderate be unt ifferentisted
+atotionel engagement with che andar kealty peogram,
+
+Engagement Score Distribution (Gemified Group)
+
+in
+
+“ 7) LS) an & ~ wo
+Engagement Score
+
+Pig. 13. Histegran of engagement sores anong pariicipanis in the gamifiod
+pregenn. ‘The clistritrution is shifted toward higher values (f.0-6.5) relative to
+the control group, mdicating that game mechanics consstently cevate self
+reported emotional engagement
+
+mre time on the app and engaged more with the pare feateres than
+vées. Finally, a aacked Gar chart of progmm group disnburkin across
+purchase frequency categories indicated that Mgh-frequemcy purchasers
+were more fhhely to be in the gamified program, wheres low-lrequeny
+purchasers were eveniy distributed across buth programs.
+
+Tene Spent on App va Purchase frequency
+
+? 7
+ié MogtamGroup
+- ** x
+. Central
+io ~~ «© **
+~ a Learre fed
+> 7 eee & **
+4 u oo oemerer © 6 . - . .
+=
+Hl se OF & “2 ©
+< tb _— eee -- .-« “ef
+x ——— eee eee OF . -
+= 4 ocx SSC Se = =e es Se . 7
+— - “+ @-e- - * * *
+a
+, ——pae eee “** « -
+oon ee O =~ —@ **
+0 *
+n oh ut) ! Loo 125 50 i? an
+
+Teme Spent om App (Minutes)
+
+Big. 14, Seatier plot showing the relationship between time spent on the app
+iminutes per weed) aed monthly purchase frequency, coloured by peogrem
+group. Gamified users cluster towaed higher values on both ams, suggesting
+that game mechanics ines toh platferm dwell time md shop
+ping frequency
+
+Arenal of Renaiding amd Comune Serace: 02 | aah) 194024
+
+vista line (hese patterns
+lit spent an the sop versus purchase frequency, coloured by program
+group. ¥) i shows the scatter of time on the app versus gamifiration
+taage by gender, indicating differences tn adopnon miensity,
+displays the distribution of participants across purchase frequency ont-
+egeries by program group, illustrating che concentration of high
+Fexjuency shoppers in (he gam fied condition.
+
+} peesents the scatter of
+
+5. Practical implications for retall and service management
+SL Persmatzaton and gemified leyaity progrom sromgies
+
+The findings indicate that gamiication cin meaningfully enhaoce
+engagement anc perchasing in onine grocery recall when programs are
+designed with arention to personalization. Retailers should lewrage
+¢cusiomer data to tailor challenges, rewands and communications to in
+vidal preferences and shopping patterns. bor mastance, younger users
+may respond positively co competitive leaderboards and streaks, whale
+@ider users may prefer co@aborative of goal-odecneed tasks lniegiaring
+social features that allow costomers to share achievements with friend
+cant weplify tntrinsic potivation, but such features should be optical to
+respect varying comfort leweb with competition {15 tn th
+Personalization also mvelves adjusting difficulty levels and reward
+thresholds te ensue that tasks are achievable yet stimulating. When
+customers perceive progress toward meaning goals they are more
+Ekely to reenain engaged and develop loyalty over time, Attention
+dwoukl also be given to demographic differences ‘The analysis shows
+that female participants engaged more with gamified elemeces and
+spent longer on the app, suggesting that storytelling. comnmuanky, ad
+recugcition may resonate strongly with wanen. Retailers can exper?
+men! with oarrmitives thal commect grocery shooping to beoader Efeayle
+guils, such as beakhy eating or sustainable choires thereby alzning
+tasks with intrinds valas. Gomeersely, mak participants may remond
+better to achievement tadpes and discrete periormmame metrics,
+Household sive and life stage may further influence task preferences: for
+example, families with young children might vwilue chaSenges that
+nvolve expkeing oew product categories o¢ preparing meals together,
+The study's evidence of diminishing marginal returns in the engage
+mewt-pirehase freqeeocy relationship carries 4 direct opeemtional
+mnplication: reteiers should monitor cunwmilative gamification exposure
+ar the individual aser level and intrediece programe mfreshes—new
+challenge formuits, mtating reward categories, @ seasonal cam
+Petigns——Oefore saturn tion effects set in. Aci ptive algorithms copable of
+dteciing dectining tak completion mites ar falling engagement scores
+
+lime of Apt vt Gamification Usage Score by Gender
+
+= ender
+
+*-e . ,
+5 7 a : = a
+‘ J ie : > ehnale
+vA i. t ** .
+© me) °. .
+= FA —- . »* —_
+zz 6 @ - te "a . .
+~ aS So ie «4 . °
+5 Siegen “** += * .
+5 4 ‘ at eT te aide
+¥ Ss he" * . ° .
+Ee pe ae . . .
+S ww ww .
+
+5. .
+
+. .
+2 uw 75 FOC 125 190 L75 Patt
+
+Tie on App (Minutes)
+
+Fig. 15. Sctter ploc depicting Uae spent on che app verwus geuufication usage
+acoers, eeperated by pender. Penvale purtici pants (shows in reel) tent in oorupy
+higheromape and higheodwell time postions than male partir pants ishewn in
+blue), ledicating deeper integration of gamified features into female sheppey
+beomsing routines, (For incerpeetation of the mferences 00 coleur in this figure
+erent, the reader is referred to the Web verion of this arircie.)
+
+“S2AUI SPOuJaW-paxiw yy {preje4 Asa20u6 auyuo ui swesboid AyeAo; paymweo
+
+£EL/ @
+
++ %l6
+
+F
+
+iD
+a)
+©
+.
+x
+®
+is
+m
+c
+
+qimHedxoy F
+
+qielensioey &)
+
+ly Anmury aius0du>
+
+======================================================================
+СТРАНИЦА СТАТЬИ 9 из 13
+======================================================================
+
+i. Oegea
+Program Groep Distrityuton acrass Purchase Frequency Categores
+_ Prog aroroue
+= Corer!
+ear ome Cathtted
+is a
+|
+5 bi
+*
+
+2
+= il
+6 =_s —
+
+a4 wy o
+
+-4 al -
+Purchase Frequency Category
+
+Fig. 16, Stacked bar chet showing the propartian of participants in each
+purchase frequency category by program group, Higher purchase frequency
+categocies (ff purchases per month) centain « substaniially larger share of
+guinified earn, while lowtrequeny carguie we more evenly disni buwet,
+highlightiee the «lective appeal of gamifiertion in high-rngapemernt shopoers
+
+can teeger personalised reengigement nadges, matntaiaing the moet
+vational value of game mechanics without requirmg whdlesale pro-
+sramime reiesion (To 7M)
+
+19 poovide visual insights that cn inform personalzatian
+strategics ||; overlays hisingrams of sumification usage scores by
+gender, cevealing that femate eeers exhibit adistabution skewed toward
+higher usage, while male users show a flatter disribution.
+compares average purchase frequency across gender and program
+group, highlighting that gamifed females make the most purchases.
+
+ie 19 Mustrites average engagement scores by gender and program
+group, coefirming that gamification mises engagement more for female
+participants, These pattems underscore the importance of scegment-
+tecific design aod testing when implementing pamifiel jayalty
+
+progranis.
+
+52. Integreting gemificonon inte oie retail platforms
+
+Seamless integration of gamed feacures into the core shopping
+interface is at xal for maxioizioy uptake and ensuriog that gacse me-
+chanics feel mative rather than intrusive i 20211 The data
+stapest that gamification is most eflective whee it & presemied as an
+enhancement to am already smooth digttal experience ether than an
+
+Distribution af Gamific ation Usage Score by Geeder
+
+a Moe
+
+fernale
+
+Pa) an &) 80 Loo
+Gamification Usage Score
+
+Fig. 17. Oveilaid histograms showing the distribution <¢ gamificetion wage
+soures for mabe Chloe) ane female Corenge) portici parte ‘The Gera be costrilartion
+is shifted toward higher engagenent, incticating stronger atoption of game
+mechwics among women in tus sample, (For interpeetation of the relecences to
+colour i this figerm kpend, the made Is referred po ihe Web version of
+this articte.)
+
+"
+
+Journal af Rerei bag ced Came yee Serre of 02 (AOA) HOARD 4
+
+hemtege Purchase Frequency try Gender and Program Grou
+
+Wogr ant ecce:
+=e (pre!
+ome Ceiroifen
+
+|
+r
+
+Ceraer
+
+Fig. 15, Der chert comparing average monthly purchase frequency across
+geader and programs erceps. Gamified fereule partidpanta recordal the highest
+average purchase frequency, followed by gamilied males, with both contra!
+geuups purchasing Jes frequentty. Erroc bars cepresent one standard exror
+
+Average Engogerment Score by Gender and Togrom Gree
+
+frogreniGiroup
+— eit
+oe Garrutiod
+7 a
+
+Gender
+
+ff
+
+coe
+
+o>
+~
+
+iwerage Crgagen
+-
+
+‘
+
+=
+
+Fig. 19. Bar chart illustrating average engagement scores by geoder and pro
+gon group. Giollication rales engagement scoces far both geaders, but the
+effect ty larger for female particpanta consent with the hypothesis chat
+Wornen derive greater esperientia! watoe from community and progres heed
+game Contino.
+
+overlay that @isrupis the purchase joumey. Retailers should design
+progress bars and challenge notificatians to appear contextually—foe
+example, surfacing 4 ‘complese your streak’ prom pe only after «user has
+added items to ther basket, rather than intermpting heowsing
+Onboarding journeys should iirodiece game mechanics locreurentally,
+allowing new wer: to discover features organically rather than being
+overwhelmed by a full gamification system om their first visit. A/B
+wetlog differ: interlace configurations at the feature bevel can help
+identify the specific combinations of mechanin that resanate with
+particular customer segnients. Investment in data infrastructure b 4
+prerequisite for effective gamification. Retailers require real-time
+behavioural signak—app session dumtion, browsing depth, basket
+modification patterns—to deliver timely and relevant in-app prompts
+Organisations that bare not vet canselicited their customer dita phit-
+forms should treat gamMficatios rollout! as an opportunity to accelerate
+this integration, Moreover, teansparency about bow data are used to
+personalise game experiences ts essential; customers who understand
+the value exchange between personal data and tailored rewards are
+more likely to sustain programme particige tion aed 60 trist the retailer
+with sensitive informacion (Au 415).
+
+gs. 2 2) Ubastrate the relationship between programme
+design dimensions and measurable outcomes. | is shows average
+engagement scores across ape groups amd purhise frequency
+
+“S2AUI SPOuJaW-paxiw yy {preje4 Asa20u6 auyuo ui swesboid AyeAo; paymweo
+
+£L/ 6
+
++ %l6
+
+F
+
+LUO3'S38SSP1338//PsoUBINS jpd
+
+“UNUO Ut SuueIBoud AyeAo| Dales
+
+% L6 CS
+
+iD
+ov
+©
+.
+ras
+wo
+is
+*
+c
+
+qimHedxoy F
+
+_
+
+qLeLeheLned
+
+ly Anmury aius0du>
+
+======================================================================
+СТРАНИЦА СТАТЬИ 10 из 13
+======================================================================
+
+. Qed
+Age ws Purchate Frequency by Program Groug
+> - +
+— ProgramGroup
+o *.
+. Loetre
+
+et . > > ** sd
+> . Gbamified
+7 * ** _“- .* + **
+= a *see . oe -* ° ** * eee *, “*
+y er *e “* ca _ erceee eee “> ee . * oe
+= “e7eeee* OF OF@ «& ore oe of ee eereree
+> 4 er eeeeeeeere eceeeee ereeevreeeer eee sere . eee
+4
++ 4 ** @e80e8 @eee of eee See ee £88 e eee &e
+~ 7eeee © © £88088 © FO C808 C08 Cee Of © © ©
+é > | ee . oe « oe eee eee ©8* G@eee ©
+
+~~ -« “eee ee eeee ~
+0 - . e+
+LS) a » ao
+ae
+
+Pig. 20. Seater plot af age vera eegemen| wee bey gemicr, Memale par-
+ticiparss (orange) maimain higher engagement scores acress all age categories,
+wil male participants (Mur) show a asligiv decline in enpgagemenr with
+inereuing age. Theet palberre suggest that agedaplive programe deege
+should prioritise experiential wed communtycnented cewacds for oldes female
+customers (Fac leterpertation af die references to coleur in this figure legend,
+the prader (s selene to the Wels terion of thi astiche,)
+
+Age ve Engagernert Score by Gender
+
+¥
+=
+~—
+3
+= mn
+a ay
+~
+b 0
+a
+Fy
+ao
+c
+~
+> mnie
+oe .
+So)
+* x a  ) Pra)
+aajye
+
+Pig, Zl. Scatter plot of age veces purchase: frequency by progam greup
+Younger gamified participants (Mue dow) cluster at higher purchase fre
+(quencies, confirtting that partifsest ies has a sietnger purchasing efieet arrewig
+
+cousumes aged 18.54 than auoag older cohorts. (Por interpretation of the
+references to colour in this figure begend, the reader is rekereed to the Web
+weion af this ankte.}
+
+categories, while | depicts the relationship between age aml! por
+chase frequency by program group
+
+x
+
+5.4. Ethical and inchstre genmificarian design
+
+The quatimtive (ndings surlace persigieat concerns aloe privacy
+data use, and pesceived menipulation among a sabset af participants
+These concerns, if unaddremed, cin undermine programme credibility
+and reduce long-term exagement. Hetabers must therefore complement
+comenercial objectives with a clear ethical design philosophy, Teans-
+caremy requikemens adwokl be bull into progeamme gowemance:
+customer should be alle bo access 4 plain-language explunation of buw
+their behaviournl data are collected, steered, and applicd tn personalise
+thelr gamifixation expericoce. Opt-out mechanisons fre social leader
+bovwids and competitive Parnes should be promineatly accessible eather
+thas buried in settings enenus, Toclusive design also requires that game
+mechanics do oot inadvertently disadvantage custaniers wilh limited
+digital litemey, motor impairments, of intermittent intemet noress
+Retailers opesating in diverse markets should cunduct accessibility aw
+dits of gaenified interfaces and ensure that the core loyalty value prop-
+usition—earming and receem ing rewards—cemains fully fectional for
+
+Journal af Rerei bag ced Came yee Serre of 02 (AOA) HOARD 4
+
+comtomers who choose pot 0 eopage with game feat ies, Porthernore,
+programme mechanks shoulkt be calibrated to avokl exphiting
+compulsive tendencies; the study's finding that highly eogaged users
+may purchase beyend thetr intended frequency gnderitnes the o-
+sporsibility of retailers to dedgn syons that enhance eather than
+manipulate consumer belaviour (5! ef al. 2125), Regular inde-
+pendent ethical reviews of gamification progaimmes, informed by
+consumer feedback, can belp retailers maintain public trust aed oegu
+latery compliance
+
+suppor these olseryatare shwives the scntter plot
+of tive on app versus gamiification usage coloured by group, fic =
+Presents average time on App versus engagement categary. Fl + ove
+25 provide further contest on ethical engagement patterms,
+
+6. Discussion
+6.1. Inerpremifan of findings
+
+The eesulis demonstrate that incoeparating gam@led elements into
+online grocery loyalty progrims ain significantly enhance connaner
+enymonest and, lodirecily, purchese frequency. The posilive associn-
+tion between gomification usage and engagement indicates that partic
+ipams who engaged more with challenges, bedges, and progres
+indicators developed stronger emotional connections with the retails
+This algns with theoretical expectations that intrinsic motivathon arises
+when consumers perceive’ auloncny, competence, and relatedness in
+their interactions The finding that engagement mediates the cehtion
+ship between gamification and purrhase frequemey anderscores the
+Importance of emotional beading in driving behwelour. Sieyply adding
+game mechanics without fostering meaningful eqqgagement may not
+triralate into inceweed spending Differemees across demographic
+groups offer further insights. Younger participants responded more
+pesitterly to gamification, as eeflected im steeper engagement slopes
+relive 1 usage among younger cohorts. This may be annibured to
+greater familiarity with digital interfaces and a higher propemsity to seek
+fun and competitive experiesces. The gender differences observed in
+engagemest and app usage suggest that women may phice greater value
+on the communal and experiential aspects of gamified programs {1/1
+
+105], At the sane time, men may prioritise efficiency or be bess
+motiveeed by game mechanics, Retailers should consuter these nuances
+when designing and segoenting thelr programs
+
+The pattem analyses reveal that the relationship between engage
+ment and porchasing exhibits diminishing marginal retums. Engage
+ment increases purchase frequency Bp boa point, after which addeion|
+engagonernt yields smaller Lacremental gains, This suggests that there &
+
+Age wo Gemification Usage Score Oy Program Group
+
+100
+.
+
+Pog arnGroug
+2 e Caortenl °. ° = "*
+7 wo . taacreityed - #8 _* . °
+a e e? s, ° . o° 7 2
+& ** See. . : -* .*s > ta Sele - 5"
+x» & "s « 4 pet atets oF" evegbo, “tre .
+4 tse,°S" 2 *, &,6** .« Be ef «20.8
+
+ee «e* A . - ‘ ¢* 4
+c : ‘ *. 2s o t*efe. ;
+£ ae 7% « . ‘ *s leet ; s**.
+© ._* ** ae | * 95 t+ . = otgee
+= 4 Seees be of #"« One,88°48'* 2° peta" .sge “3
+= i ee Sete "23 F ‘3 +s
+= . » = | Fk.
+= ? es ee ee te
+= . ee “ee
+o mw . a s
+
+. . J
+al =
+a x “ » Lt]
+4Qe¢
+
+Fig, 22. Seater plot of age verse engagement sqrt across programine
+asigoment and porrhas frequency decile, Poin are onkrmed by progoem
+geoup: Lhe cooctatration of ganlfed users in higher engegement regions un
+dvreres thy programmers capacity 1 eewte emotions! connection across tw
+age spectrum,
+
+“S2AUI SPOuJaW-paxiw yy {preje4 Asa20u6 auyuo ui swesboid AyeAo; paymweo
+
+£L/ OL
+
++ %l6
+
+F
+
+“UNUO Ut SuueIBoud AyeAo| Dales
+
+% L6 CS
+
+iD
+ov
+©
+.
+ras
+wo
+is
+*
+c
+
+qimHedxoy F
+
+qielensioey &)
+
+ly Anmury aius0du>
+
+======================================================================
+СТРАНИЦА СТАТЬИ 11 из 13
+======================================================================
+
+i (ug ea
+dverage Tene Spent on App by Gender
+-
+_
+52
+=
+— Pat]
+= 10
+i
+23
+0
+s s
+2 =
+t =
+=
+
+Gender
+
+Pig, 23. Gar chert depicting the average time spent on the ceteibers app per
+week by geruler. Pereale weer goer cere tire on ter platioem that male weers
+on everage, a pattern thet is amplified within the gamified poogranme cunci-
+dom suggesting that game feeturs digxuportionately incesse female
+devel Cine,
+
+Average Enqagerwert Scare by Purchase Frequermy Category
+
+4
+
+z =|
+
+,
+x
+
+=
+=
+
+’
+
+Average Engagemert Score
+wet
+
+1]
+30)
+|
+
+|
+l
+
+Purchase Frequermy Categeary
+
+Pig. 24. Bar chart showing average Cogagement sere accom calegorios of
+monthiy porchase (rayucnty, Higher engagement corresponds 1o morte frexpuent
+purchedng In & oete-Hee pete up to the Avetosix purchase: cobepory
+ater which marginal guire diminbh—coosistent with the anuraion effict
+iden tified In the regremion analy,
+
+Garretfication Usage Score by Proygrarn Group
+
+100
+
+‘
+oS wu
+ww
+=
+BI fr
+a «(4D
+<=
+5
+o 7
+‘ i
+Corviral Larmtied
+
+Program Group
+
+Pig. 25. Boxploc of gumification usage scones sepanried by program group. The
+wider Imenquartiie range in the gamifiet group miecis individual leterege
+neity in programme adeption; identifying and enpporting koe adopting gam
+hed participants through targeted mucipes may help retailers captere unsentined
+eigagetibet pocet ial
+
+an optimal level of pamificntion beyond which men might experience
+situmiion of fitgue. Observations thar some participants engaged
+iotersively tat did oot increase purchases proportionally highlight the
+
+1
+
+Areal of Pircaiding and Coruurer Serace: 02 (atta) 14a
+
+reed to balance entertaiament vali with utility, The scatter plats of anp
+lit verses purtheee frequency show that spending more time on the
+apo dors not amtomatically lead to more purchases Lostead, the quality
+of engagement matters. Users may browse, phy mini-games, or com-
+fiete challenges without peoessuelly adding items to thelr basket.
+
+42 Theorrial conribeociou
+
+This study comteibures to the Imerature om retailing and conssmner
+services in several wiys Pirst, it extends the understanding of gnmifi
+catiun by situaling the phemamenon witha the high-frequency, utils
+tarian context of online grocery shopping. Previows resenoch has focused
+on industries with asplrathinal rewards, seach as travel and bensgitaliry,
+By Gemonstrating that gamMication can abo enhance engagement in
+quotidian purchase contexts, the study browtens the scope af gamift-
+tation theory. Seound, Ube findings affirm the mesiiating role of
+emotional engagement in the relationship between giamemechanics aed
+behavioural cuscames, This Nighlighes the importance of designing
+loyalty programs that fosser peauine feelings of conmection rather than
+solely offering extrinsic rewards Thied, the mixed-methods approach
+provides a ckber undersaniing of why gamification warks, revealing
+peyehological mechanisms such a3 enjoyment, peogress satisfaction, aed
+axial conmection, fm well 46 Comcerns Around competitinn and fnirness,
+The dumographic analyses ube offer theoretical insight. They suggest
+tha tage and pender moderite the effects of gamification, supporting the
+iden that pessom! charactenstics shape responses to marketing stimu,
+Younger consumess, steeped in digital culture, may be nore receptive to
+playful leeeractions, wheat okler consumer may value senigttfor-
+
+wird reward strictines. Gender differences in social motivations 4rd
+isk perceptions may explain why women engage more with certam
+gamified tasks These moderaticg effects highlight the importance of
+considering |ntividwal differences within gamification theory and sug-
+geal that one-stae-fits-all approaches are unlikely so be effective
+
+Finally, the sudy’s integration of hab formation concepts with
+gumificatiun underscores the potential for game oeechanics te reinforce
+routine behaviours, By providing immediate feeback and miro
+rewards, gamifled programs may accelerate the Gevelopment of shop
+ping be bits, However, the possibility of diminishing returns points to the
+need for dynamic aml aGipeive systems that evolve as Uses progress
+through the bab formation cycle. Puture theoretical work could
+explore how gamified interventions interact with habit foop: and how to
+Anmin engagement over longer perixis without quasing Meigue,
+
+4&2 Puttere researc’ directions
+
+While the curves research offers valuable beuights, f| abo opens
+avenues for further investigation. One pronusing disection & to examine
+how specHic gene mechanks contribute individually to engagement
+and purchasing. This study weed a buewdile of features—challengrs,
+progress bars, badges, and leaderboards—eaking it difficuk to belate
+the effects of each element Experimental designs that syelematically
+vary exdividual mechoinics could identify which features deliver the
+grentes benefit for particular customer segments. Additionally, longi
+tudinal studies spanning longer periacts would iluminate whether
+gamnification effects persée, increase, of Amin ever tine. Habituation
+may require periodic ianewation to ma incsin interes. Another area for
+exploration is the interplay between gamificition and personalization.
+While this stady contrelied for demographic variables, future work
+could test algodthms that dynamically taikie challenges and revwarsts
+based om real-tioe behavioural data, Such research would need to
+address privacy and ethical considerations more deeply, including
+coOmumer consent and data security (Bur it ih. 20.2) Leyesti-
+gating the role of social oetworks within gamified loyaky programs
+could further earth understanding. For example, how de perr io
+fhaences and social comparison drive or inhibit partictpation? Finally,
+eross-caltuc! studies would determine whether the observed patterns
+
+“S2AUI SPOuJaW-paxiw yy {preje4 Asa20u6 auyuo ui swesboid AyeAo; paymweo
+
+€L/ Lt
+
++ %l6
+
+F
+
+“UNUO Ut SuueIBoud AyeAo| Dales
+
+% L6 CS
+
+iD
+ov
+©
+.
+ras
+wo
+is
+*
+c
+
+qimHedxoy F
+
+qielensioey &)
+
+ly Anmury aius0du>
+
+======================================================================
+СТРАНИЦА СТАТЬИ 12 из 13
+======================================================================
+
+. (ewe we al
+
+hold is markets with different coltural attitexies toward conrpetitian,
+privacy, and digital play
+
+7, Limitations
+
+While ths study makes substantive contributions bo the gamification
+and retal! loyalty Heerature, several limitations should be ackoowledged
+when interpreting the findings First, the stedy sample is drawn exctu
+sively from an esablished UK-based online grocery consumer panel
+which restricts the genesnliibilty of the findings ti aher national
+contests. Cultural attitudes buwasd digital play, competition, and data
+privacy vary onnsidernbly across markets, and the effects of gamification
+in «ontests characterised by lower digital penetration, different
+competitive retail landscapes, or distiact consumer Valees may differ
+from those oteerved bere. Cross<ultural replication studies are there
+fore strongly encouraged.
+
+Second, thre observaticmal window was Emited to two months a
+retatively short period for assessing whether gamification efferts reflect
+durable changes in eogapement and purchesing habits or transijory
+novelty responses The diminishing returns obeerved at high engnge
+ment levels may partially reflect withinstaty habituation cater than a
+srectum! oiling on gamiication effectiveness. Longitudinal designs
+tacking participasts over six to twelve months would provide a more
+reliable picture of cuetained behavioural change and help dis inguish
+novelty fram habit formation effects.
+
+Thard, although stratified random asdgantcar was used to balance
+gender and age groups across programme conticions, sell-selection into
+specific game features within the pamified coevtition could nor be
+controlled. Participants chow which tasks to complete and how
+frequenily to interact with kaderboards, introducing a degrer of endo
+peneity into the gamification usage veriable that the instramental rar
+able analysis only partlally actresses. Future research choekd consider
+field experiments wih more granular raxdomization atthe feature level
+
+Fourth, the ergagement measure, while valideted and internally
+consistent, relies on selfceperted survey data cullected weekly. Survey
+fatigue may hawe affected the quality of responses over the study period
+and the consistency of engagement perceptions across the two months
+cannot be fully guaranteed, Supplementing selfeported measures with
+implicit indicators of engagement—auch as session initlation rates, wash
+tbundonment patterns, or response latences—woukl strengthen the
+Measurement approach m fst studies.
+
+Fifth, the qualiquive tneeniew sasample (6 = G0), while purpe
+Svely selected 1 reflect demographic divers&y, represents only 12% of
+enmoBed partktipants, Saturation of themes was observes! earty in the
+axing process, suggesting that the Geematic findings are reasonably
+robes; however, interview-lused evidence by inherently context
+dependent and may nor felly capmre expesiences outside the snedy
+sting Putuwe work could cumnplanent in-depth intery ews with larger-
+sale qualitative surveys of online dary methods to bronden the
+evidential base. These Hmitntions collectively indicate that the present
+findings, while letermally valid and thewetically meaningful, should be
+tevatet asa foundarion for rather than a definitive account of gam@ied
+loyalty programme effectiveness in online grocery nan’,
+
+k. Comclusion
+
+Thit mised-oethads study provides the first rigorous empirical evi-
+dence that gamified jnyalty programs can enhance comsumner engage
+mentand indirectly locrease purchase frequency inonline grocery retail
+The key finding & that gamification works by fostering emotional
+connection with the retailer, rather than by directly inceetivizing
+spending Participants assigned to the gamified program engaged more
+deenly with the retailer, completed more tasks, spent more time on the
+platforn, and made slightly more purchases than thase in the contey!
+program, Statistical analyses reveal that the relationship between
+gamification and purchwwing 6 medinted ly exzagement, underscoring
+
+eureei af Bernie aad Came Aerecrs 02 (20D) HOA
+
+the central pole of emetional comnection in diving consumer behaviour
+Beyond the agerrgnte e®ects, the findings highlight important moder
+ating factors. Age and gender indlecace bow consumers respond to game
+mechanics, with younger and female pamicipants showing stronger
+engagement and adoption, The data suggest that the quaity of
+eigagement, rather than mer time spent om the apo is critical for
+stimulating purchases, Overly intense geen fiction may bead to dimin
+ishing eeturas, Ndicating the need for balanced and adaptive program
+designs. Ethical considerations are paramount; retailers must ensure
+tmesparency about data use, avold manipulative practices, and design
+upchusive experiences that cater to divene customer abilities and pret-
+arenes. Por practitioners, the steady offers actionette indghts. Retalers
+should personalise gamified loyaky programs bised on demogerplzic
+and Deha vioural dca, integrating them seamlessty inen Agital patforms
+witht disrupting the cor shopping experience, Sock! features and
+tarrative elements can enhasce engagement, bul must be opt-in bo
+respect individual oregerences, Regular mimitoring of engagement
+metrics and purchase pattercs cin identify when users experience fa
+tigaet or when program adjustments are ceeded. Investments in data
+integration anf analytics are essential for delivering relerant challenges
+aid rewards, a5 well a3 for safeguarding privacy
+
+In conchsion, gamified loyalty programs tepreseet a promasing
+avenue for online grocery retailers secking to forge deeper connections
+with customers im a competitive digital Lndocape. When designed with
+sensitivity jo comumer values and demogmphic dilferences, gamifiet
+lovalty programe have the potential to transform the often-mundine
+experience of anline grocery shopping into an engaging and rewarding
+journey, Future research should examine the long-term effects of
+gamifkation on customer lovaky and explore how emerging toch
+gies such as Al and augmented reality can further enhance gamified
+retail expecieness. Continued research into the long-term effects of
+gamification, ite jnteractiaun with personalization, and its cuss-cultucal
+applicab@icy will Gerther refine best peactices. Ultimately, the succes
+of gamified loyalty programs depends on balancing fun and function,
+ensuring that the joy of play enhances rather than detracts from the
+practical task of securing groceries for everwilay life
+
+CRedit aathorship contribution statement
+
+Lingli Qing: Conceprusization, Dara curation, Formal analysis,
+Metiediokgey, Writing — arignnal draft. Guili Deng: investigation,
+Metxdology, Resources, Validation. Zenglu Zhang: Data curation,
+Software, Visualization. Shunhae Mat: Project administration, Super
+
+vision, Writing — review & editing.
+Declaration of competing interest
+
+The wethors declan that they have no known competing flnactal
+interests cr person! relatioeshign that coukt have appeared to influence
+the work seported in this paper,
+
+Data availability
+
+Data will he made available on request
+
+References
+
+Mibu, M., Rete. A., Roetike K., 2023, Gamified qwoctury reward desig: Otecing
+cermin vera chemer-trerd revert. nf, Syet. t. 39 6h), $42) 144
+mt
+Aguirre, &, Stale, 1., Grewel, 0, de Magpies, Hh, Wergede, M., 2005. Uneper long the
+personalization paradox The fect of lafnimestion collectiue aed truw-Deiklicg
+sunegics on cline edeertivere fieetlereess 1 Retell, 4) 011, eee. bo
+‘ } ' i4 '
+Asrerven, DL, Lire, 1, D007. The ried toting effects of Solet ct comm tence btention. bn
+4 tot, Mansge ST 16), FOS-7U2 be tp LW be hLitnd a
+
+“S2AUI SPOuJaW-paxiw yy {preje4 Asa20u6 auyuo ui swesboid AyeAo; paymweo
+
+€L/ 21
+
++ %l6
+
+F
+
+LUO3'S38SSP1338//PsoUBINS jpd
+
+“UNUO Ut SuueIBoud AyeAo| Dales
+
+% L6 CS
+
+iD
+ov
+©
+.
+ras
+wo
+is
+*
+c
+
+qimHedxoy F
+
+_
+
+qLeLeheLned
+
+ly Anmury aius0du>
+
+======================================================================
+СТРАНИЦА СТАТЬИ 13 из 13
+======================================================================
+
+L ity eal
+
+fires, P. tel, L, Cambin 5S. OL Behance veer eogepemenr: The cole of
+gperrificet ion in mmedile apps J Mae Hee 12, 1-2, oy iv
+lanteo tel.
+
+bu rbberpes, ©. Pudis. €, Seteeion, M, Wart Oeeeleee, S60, OG% Revsiling
+fheoundemies: How IcTiprivee Leto mer ceperienre tweed perveptineg ned
+cesmener loyalty taroegh belongs of grounded ness, J, Betalling. $F 14), 4004
+tet i 1) } peetet it ‘,
+
+Burthoeds, G, ew, P, Ceomerddtsy, 1, bev, N., DIZ Privacy beberrtone 4 rede! fer
+mine stened criseat 2 tin. ek 1, 257-256 i
+
+Coeeres, AC, Tried, PK, 2005, Nogreeeienranatps’ of cou den, Inded, Garshetage
+Lindeeratiy Prom i atl A
+
+Oe, T., Pese, ¥. Men, ., Dietey, A, Lai, PL BS. The tee perts of pentificwiien dese
+- commumer parchase A use and gratification theary perspective, Dectrus
+Conmner. Hea, Appl 58, LON DIA by tye i m4 "
+
+th Cyende, , Peenbes-tikesen, M., Mlertinedl, Eh, 202 L. ege pine sherpprers theres sectel
+apipe the robe of pane Mieations. br. 2. Metail Dierih Mesag. 49/7), 914-40 ir
+
+' ‘ =
+
+tem, Ve. Paw HW. LL VE, Wang A. 207) Coating the eiceener esperi emer tn
+fer ichene! conpecte: The mb of chvenel Fireretion. 4. Gee Hee, 12h 19-22
+let i Ty A we
+
+Harel, L. Leal) Otime Riley, *., Hares. P. Singh J., Heede, KR. 2008 Cndiee grocery
+
+oping the iefieowe of shiupational fovom Fue J Mart, 48 © 1M, 12H 1 Ne
+
+' | me
+
+itene: 4, Che, L. 2G Having fee while ne ee ig rererdi?: Bepliretion of
+pemifrcelion ut leyalty progres tor coemumer boyolty. J. Bon Re 10, 365-37.
+Ww V0 At '
+
+Kong, |., Alejeedro, TA, Geom, MD, 2015 Coster cope sertific oti and ihe
+cihectivrreem of lewally pirogpiea | Ban, Ren GR (21 one-471 | i
+
+| ' ’ B
+
+Khas, |, Fates, M, Kumses, V. Acute, §., 321. Do experiene and eager
+
+meter milenin conmmers Mark. (nell Man, 9902), 32541 t
+
+Koeds, 11, Meckecl, A. 2004 “The trileace of cumtesme: bovulty pou grime dexign on the
+rdaloolép bene Costner moive and wdue perception 2. finaling Comes.
+Serr. 21 (4), 540-400,
+
+‘ aL
+
+3A
+
+lomrnal of Rienalling and Conner Service: 02 (RG) IDA
+
+U.N, Aun eoonaee. ¥.. 2025 How gamificetion fearures dover band lov niy The
+weet ng coles of conermer eopenence and bearel erqagerneet. |, Deut, Appl
+tlig pen. Ladumer, Wes. ZO (4), LES lity iu jie SLO
+
+lim, &¥, Yo ¥, Cok eM, Chae TH, Gol MY, Tan GWM, 2005. fo wee all foo
+aod gene: gamification in e-cammerte on conmmmers [rripiile Doping af ret! food
+products. Oc Poeat 1 227 1) 1098 1103, hy " fi ‘
+
+Pheer Weeierdoee, L, NUT? The effects of Loyalty peogeemee on cumteeney |ifetires) Goceel eee
+
+aed share of wallet. 1 Resell, 45 (2), 223-256 i
+'
+
+Meng aicoky, MA, Gide, D,, 2200. Canaimer reeponse tonne grocery diag prong. bes,
+A. Retell thetrib. Maesg. JA L171. P7-2h | ' iit
+
+ul
+
+Pansarl, A. Rucree, ¥., 3017. Cuswemer erggemest: Ge construct, ansecetents, ant
+conmequemes, . Acad. Mark. Sci, #1 (0), 2-1 ip re Thiam
+
+' i
+
+Very, SAL, Skeeter, V. Cement, A Cueetetecs M020. Csersimeee engerpeeneed ichaviors
+40 Sttvke Com renienece ane urgaisrionl checacier nti mallet? ). Sere. Theery
+Pret 3 67), 195.722 w . . rt ne ’
+
+Sheetal, Tred, f.. Sneek. G., BW. Gertticates and cuctererr ceperienry te online
+rete: « qealitetive sively beecsing on ethics! peeepectve. Aten J Bee lthees. 12
+1944, il tu | ' 1.
+
+Teton S, Aue dle, 3.1. Caneta-Matartage MIM) Ganifeat
+Coneprer tecisermes ts the game cerr? [iis Support Syer, 10K, Lay (
+
+ial i
+
+Ulu, &.. Uday, C, Yeotyurt, SShen, S025. le hae review Belpied? bhow prodart grodes
+ver iSouries), pont wale 6 ehagpe peeroelved Delptlilnese 1 Recalieg Cones. Sery. 47,
+1IMeM ! iit ts ;
+
+Xi N, Harman, J, DO Ces garnifetiom after! breed ergagerreest are eopeity? A etecty
+=) cali beers] cosnmmiusetion. 1. Gun. (hee, 20), 649-408. ity iio
+
+7] i ;
+
+Yeh, 1. Cheng. TS, U, VIL, BS. The role of gemification & enhewcing onemea
+PRET men! et ecpositerss dipceqt) eeliebeweessinaten theory. J. Sere, Math. 39 (%)
+S5t-Sou } it (4155,
+
+mand urine
+
+pejes Asa20s6 auyuo ui swesGoid QyeAo) payne
+
+.
+
+POYJSW- Paki V7
+
+““S@AUIS
+
+€L/€1
+
++ %l6
+
+F
+
+LO)
+2
+*
+
+FiPSernreds|| |
+
+qimHedxoy F
+
+qielensioey &)
+
+ly Anuury aLused
