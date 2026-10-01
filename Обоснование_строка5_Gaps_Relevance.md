@@ -31,6 +31,60 @@ Elsevier, после чего все 50 цитат искались дослов
 оригиналу. Обратите внимание, что в уже заполненной ячейке O7 стоит пересказ «transitory novelty
 effects», это пересказ, а не цитата, поэтому править O7 не требуется.
 
+## Приведение к стилю остальных команд
+
+После проверки цитат обе ячейки были переписаны под стиль, которым заполнены строки команд 1-4.
+Содержательная база не изменилась, изменились объём и форма подачи.
+
+Что отличало наши ячейки от остальных.
+
+| Признак | Команды 1-4 | Было у нас | Стало |
+|---|---|---|---|
+| Объём P (Gaps) | 153-635 знаков | 1446 | 687 |
+| Объём R (Relevance) | 256-607 знаков | 1716 | 714 |
+| Ссылки на разделы и таблицы статьи | нет ни у кого | «Section 2.4 formulates four gaps», «Table 1 assigns...» | убраны |
+| Повествование от лица авторов | нет ни у кого | «The authors argue that...» | убрано, назывной стиль |
+| Числа и коэффициенты | нет ни у кого | b = 0.028, b = 0.042, a = 0.93 | убраны из ячейки, остались в этом файле |
+| Нумерованные блоки внутри ячейки | нет ни у кого | «First... Second... Third... Fourth», «Three propositions», «Two cautions» | убраны |
+| Разделитель пунктов в P | точка с запятой | точка | точка с запятой |
+| Начало R | короткий вердикт первым предложением | вердикт был, но с довеском | «Highly relevant.» |
+
+### Новый текст P7
+
+> Limited empirical evidence on gamification in the grocery sector; most prior studies examine
+> airlines, hospitality and general e-commerce, where loyalty is tied to aspirational rewards. No
+> controlled experimental study of gamification in online grocery retail, and the mechanisms
+> proposed by Self-Determination Theory and Flow Theory remain empirically untested there.
+> Demographic moderators (age, gender) largely ignored in prior gamification research; previous
+> studies predominantly quantitative, leaving the experiential and psychological dimensions poorly
+> understood. It remains unclear whether gamification drives actual purchasing behaviour or merely
+> increases platform dwell time.
+
+Назывной зачин «Limited empirical evidence on...» повторяет манеру команд 1 и 4 («Limited
+generalizability beyond...», «Limited prior research on...»). Пункты разделены точкой с запятой,
+как у команд 1, 2 и 3.
+
+### Новый текст R7
+
+> Highly relevant. The article directly investigates how game mechanics (challenges, badges,
+> progress bars, leaderboards) in a loyalty app affect consumer engagement and repeat purchasing.
+> The key finding is that gamification works through engagement and emotional connection with the
+> retailer rather than by directly incentivizing purchases, which gives a ready-made mechanism for
+> linking gamification to loyalty in food delivery apps; the effect is stronger for younger users.
+> Its engagement scale (trust, satisfaction, willingness to recommend) in fact measures attitudinal
+> loyalty. Although the context is online grocery rather than food delivery and gender differences
+> are descriptive only, the logic transfers.
+
+Структура повторяет команды 1, 3 и 4. Сначала короткий вердикт отдельным предложением, затем что
+изучает статья, затем связь с нашей темой, в конце оговорка через «Although», как у команды 3.
+
+### Что ушло из ячеек и где это теперь искать
+
+Из ячеек убраны коэффициенты, значения альфы Кронбаха, ссылки на номера разделов и подробный разбор
+противоречия по гендеру. Всё это осталось в настоящем файле и доступно при защите работы. Карта
+ссылок ниже сохраняет полную доказательную базу, она шире, чем итоговый текст ячеек, и это
+нормально. Ячейка является сводкой, а файл является её обоснованием.
+
 ## Итог аудита соответствия теме ячейки
 
 Из 50 проверенных фрагментов 43 работают как прямое доказательство утверждений в ячейках. Семь
@@ -69,7 +123,7 @@ effects», это пересказ, а не цитата, поэтому пра�
 > to the grocery sector remains limited. Most existing studies examine services such as airlines or
 > hospitality, where loyalty is tied to aspirational rewards like free flights or upgrades.»
 
-Обосновывает первое предложение ячейки.
+Обосновывает первое предложение ячейки P7.
 
 ### Разрыв 2. Три открытых вопроса введения
 
@@ -160,9 +214,10 @@ effects», это пересказ, а не цитата, поэтому пра�
 | Amoroso and Lim, 2017 | «Does not isolate gamification as the primary reinforcing mechanism.» | `Does not isolate` |
 | Current study | «Designed to address prior gaps through experimental design and qualitative triangulation.» | `Designed to address prior` |
 
-Первые шесть строк подтверждают последнее предложение ячейки. Седьмая строка является
-мета-подтверждением, она показывает, что таблица построена именно вокруг разрывов, но сама разрывом
-не является.
+Первые шесть строк подтверждают, что каждый разрыв опознан авторами адресно, по конкретным работам.
+В сокращённой версии ячейки отдельного предложения про Table 1 больше нет, таблица осталась фоновым
+доказательством. Седьмая строка является мета-подтверждением, она показывает, что таблица построена
+именно вокруг разрывов, но сама разрывом не является.
 
 ## 1.2. Мета-подтверждения, не являющиеся разрывами
 
@@ -390,19 +445,19 @@ Fig. 15, Fig. 17, Fig. 18, Fig. 19. Поэтому гендер формулир
 
 ## 2.2. Что в ячейке R7 является нашей интерпретацией, а не цитатой
 
-Три утверждения ячейки нельзя подкреплять ссылкой на статью, потому что это наши выводы. В тексте
-ячейки они сформулированы как оценка релевантности, что для этой колонки корректно, но при переносе
-в работу их нельзя подавать как результат авторов.
+Два утверждения ячейки нельзя подкреплять ссылкой на статью, это наши выводы. Для колонки
+«Relevance» такая формулировка корректна, но при переносе в текст работы их нельзя подавать как
+результат авторов.
 
-1. «The 15-item engagement index actually captures attitudinal loyalty». Авторы называют конструкт
-   engagement. То, что его индикаторы совпадают с индикаторами аттитюдной лояльности, является нашим
-   выводом из состава шкалы. Ссылаться надо на состав шкалы (стр. 5), а термин «аттитюдная
-   лояльность» подкреплять отдельным источником по лояльности.
-2. «so the measurement logic transfers to food delivery apps with minimal adaptation». Наша оценка
-   переносимости инструмента.
-3. «rather than impulse-driven food delivery with heavy multi-homing». Характеристика рынка доставки
-   еды взята не из статьи, статья про доставку еды ничего не говорит. Для этого утверждения нужен
-   отдельный источник.
+1. «Its engagement scale (trust, satisfaction, willingness to recommend) in fact measures attitudinal
+   loyalty». Авторы называют конструкт engagement. То, что его индикаторы совпадают с индикаторами
+   аттитюдной лояльности, является нашим выводом из состава шкалы. Ссылаться надо на состав шкалы
+   (стр. 5, лев. колонка), а сам термин подкреплять отдельным источником по лояльности.
+2. «the logic transfers». Наша оценка переносимости модели и инструмента на доставку еды.
+
+При сокращении из ячейки убрана фраза про impulse-driven food delivery with heavy multi-homing.
+Она была нашей характеристикой рынка доставки, статья о доставке еды не говорит ничего. Если это
+утверждение понадобится в работе, под него нужен отдельный источник.
 
 ## 2.3. Материал, не подтверждающий ячейки, но полезный дальше
 
